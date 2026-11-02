@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ryan Yang! <br> [![](https://visitcount.itsvg.in/api?id=ryansyang&icon=0&color=3)](https://visitcount.itsvg.in)
 
-🔭 Software Developer<br>
-🌱 I'm currently learning about new technologies and best practices<br>
-💬 Ask me about machine learning<br>
-⚡ Fun fact: I love building things and solving problems<br>
+🧮 Software Developer<br>
+🌄 I'm currently learning about new technologies and best practices<br>
+🎲 Ask me about machine learning<br>
 
 
 # 💻 Tech Stack
